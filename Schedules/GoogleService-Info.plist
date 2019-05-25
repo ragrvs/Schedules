@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>892704390674-4rp36epg6hqbo0u8v74e35j0j72ddikm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.892704390674-4rp36epg6hqbo0u8v74e35j0j72ddikm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvAGRO7ng00QQX5CrtgcB2n5JjwY1eYL4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>892704390674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ryangraves.CNATRA-Schedules</string>
+	<key>PROJECT_ID</key>
+	<string>cnatra-schedules</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cnatra-schedules.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:892704390674:ios:631a0b78418af494</string>
+	<key>DATABASE_URL</key>
+	<string>https://cnatra-schedules.firebaseio.com</string>
+</dict>
+</plist>
